@@ -1,0 +1,24 @@
+ code
+a = 11
+b = 12
+c = 13
+
+# Finding maximum
+maximum = a
+if b > maximum:
+    maximum = b
+if c > maximum:
+    maximum = c
+
+# Finding minimum
+minimum = a
+if b < minimum:
+    minimum = b
+if c < minimum:
+    minimum = c
+
+print("Maximum:", maximum)
+print("Minimum:", minimum)
+output
+maximum:13
+minimum:11

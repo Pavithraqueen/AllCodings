@@ -1,0 +1,14 @@
+a=int(input("Enter a number"))
+for i in range (a):
+     print (i, end=' ')
+#if the input is 5
+
+a)12345
+b)012345
+c)01234
+d)54321
+
+
+
+ans:c option
+c)01234

@@ -1,4 +1,11 @@
 i=1
-while i<=5
+while i<=5:
   print ("Telusko")
     i=i+1
+
+output
+Telusko
+Telusko
+Telusko
+Telusko
+Telusko

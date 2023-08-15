@@ -1,0 +1,11 @@
+i=5
+while i>=1:
+print ("Telusko-,i)
+i=i-1
+
+output
+Telusko-,i
+Telusko-,i
+Telusko-,i
+Telusko-,i
+Telusko-,i

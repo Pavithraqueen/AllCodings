@@ -3,3 +3,7 @@ words=str1.split()
 rev_words=words[::-1]
 sen=" ". join (rev_words)
 print(sen)
+
+output
+enter the sentence: apple is red in color
+color in red is apple

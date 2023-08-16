@@ -1,0 +1,5 @@
+str1=input ("enter the sentence:")
+words=str1.split()
+rev_words=words[::-1]
+sen=" ". join (rev_words)
+print(sen)

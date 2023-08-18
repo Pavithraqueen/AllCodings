@@ -1,0 +1,13 @@
+fruits = ["apple", "banana", "cherry"]
+print(fruits[1])  # Output: banana
+
+fruits.append("orange")
+print(fruits)  # Output: ["apple", "banana", "cherry", "orange"]
+
+fruits.remove("cherry")
+print(fruits)  # Output: ["apple", "banana", "orange"]
+
+output
+banana
+['apple', 'banana', 'cherry', 'orange']
+['apple', 'banana', 'orange']

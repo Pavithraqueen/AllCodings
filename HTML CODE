@@ -1,0 +1,24 @@
+<html>
+<head>
+    <title>My First HTML Page</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is a paragraph of text.</p>
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
+</body>
+</html>
+
+output
+My First HTML Page
+Hello, World!
+
+This is a paragraph of text.
+
+Item 1
+Item 2
+Item 3
